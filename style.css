@@ -1,0 +1,27 @@
+body{
+    background-color: gray;
+}
+h1,p,form{
+    text-align: center;
+}
+h1{
+    color: white;
+    background-color: black;
+}
+.game{
+    margin-top: 0px;
+    background-color: gray;
+}
+#guess,#guessField
+{
+    margin-top: 10px;
+}
+#guessField{
+    border-radius: 3px;
+    border: 2px solid orange;
+}
+#submit{
+    margin-top: 20px;
+    background-color: rgb(71, 70, 70);
+    color: white;
+}
